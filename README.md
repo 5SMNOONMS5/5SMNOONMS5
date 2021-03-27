@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=5smnoonms5&show_icons=true&icon_color=0F4C81&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=5smnoonms5&show_icons=true&theme=vue-dark" />
 
 <!--
 - 🔭 I’m currently working on ...
