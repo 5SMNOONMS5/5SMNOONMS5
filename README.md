@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm 5SMNOONMS5
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=5smnoonms5&show_icons=true&theme=vue-dark" />
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
